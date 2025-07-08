@@ -1,0 +1,7 @@
+langchain
+openai
+faiss-cpu
+sentence-transformers
+python-dotenv
+PyYAML
+jupyter
