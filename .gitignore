@@ -9,4 +9,4 @@ __pycache__/
 .env
 
 # Ignore data embeddings folder (can be large)
-data/embeddings/
+data/
