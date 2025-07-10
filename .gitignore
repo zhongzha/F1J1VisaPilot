@@ -1,12 +1,3 @@
-# Ignore Python virtual environment
 venv/
-
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.pyc
-
-# Ignore environment variable file with secrets
 .env
-
-# Ignore data embeddings folder (can be large)
 data/
