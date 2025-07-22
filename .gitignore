@@ -1,3 +1,5 @@
 venv/
 .env
 data/
+cmu_oie_scrape/
+vectorstore/
